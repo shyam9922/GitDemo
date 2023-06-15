@@ -6,5 +6,8 @@
 
         Console.ReadLine();
     }
-    
+    static void Print()
+    {
+        Console.WriteLine("I am not feeling well");
+    }
 }
