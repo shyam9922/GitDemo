@@ -10,5 +10,8 @@
         //Akash Gonde Shyam Rathod
         //hi akash
     }
-    
+    static void Print()
+    {
+        Console.WriteLine("I am not feeling well");
+    }
 }
